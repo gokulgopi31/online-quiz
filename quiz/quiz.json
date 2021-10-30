@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Choose the correct HTML tag for the largest heading",
+        "choices": ["heading", "head", "h1", "h6"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the correct HTML tag for inserting a line break?",
+        "choices": ["br", "lb", "break", "b"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How can you make a numbered list?",
+        "choices": ["ol", "ul", "li", "list"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which property is used to change the background color?",
+        "choices": ["color", "background-color", "bgcolor", "bg"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choices": ["Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets", "Cascading Style Sheets"],
+        "correctAnswer": 3
+    }
+]
